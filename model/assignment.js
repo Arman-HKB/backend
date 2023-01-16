@@ -7,6 +7,7 @@ let AssignmentSchema = Schema({
     dateDeRendu: Date,
     nom: String,
     matiere: String,
+    prof: String,
     rendu: Boolean
 });
 
